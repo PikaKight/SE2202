@@ -1,0 +1,31 @@
+body{
+    margin: auto;
+    padding: auto;
+    font-family: 'corbel';
+}
+
+table{
+    width: 100%;
+}
+
+h1{
+    text-align: right;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+th{
+    background-color:#2f577e;
+    color: azure;
+    border: 1px solid #2f577e;
+}
+
+.odd-row{
+    background-color: azure;
+}
+.even-row{
+    background-color:grey;
+}
